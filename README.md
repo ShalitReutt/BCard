@@ -14,6 +14,8 @@ Last release 16/12/2023, reuploaded the repository and fixed gh-pages.
 
 ## There could be found an 404 error in the console שs a result of one of the users uploading a picture to which the link is not available anymore.
 
+_\*for the react-app switch to "dev" branch_
+
 ---
 
 ### copyright
