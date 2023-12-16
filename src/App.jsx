@@ -2,6 +2,7 @@ import React from "react";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import "./App.css";
+import "./style/card.css";
 import "./style/darkMode.css";
 import "./style/lightMode.css";
 import Footer from "./components/footer";

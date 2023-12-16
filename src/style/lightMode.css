@@ -19,7 +19,12 @@
   .navbar-toggler {
     background-color: #006900;
   }
+
+  .card-text {
+    color: gray;
+  }
 }
+
 thead > * {
   background-color: #198754;
   color: #fff;
