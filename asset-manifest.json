@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BCard/static/css/main.c8f6ea25.css",
+    "main.js": "/BCard/static/js/main.33475b30.js",
+    "static/js/787.25471cf6.chunk.js": "/BCard/static/js/787.25471cf6.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/BCard/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/BCard/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "index.html": "/BCard/index.html",
+    "main.c8f6ea25.css.map": "/BCard/static/css/main.c8f6ea25.css.map",
+    "main.33475b30.js.map": "/BCard/static/js/main.33475b30.js.map",
+    "787.25471cf6.chunk.js.map": "/BCard/static/js/787.25471cf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8f6ea25.css",
+    "static/js/main.33475b30.js"
+  ]
+}
