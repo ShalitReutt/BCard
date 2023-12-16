@@ -1,6 +1,6 @@
 # BCard
 
-Portfolio
+Business cards project
 
 ## The creator of the project: **_Lars Shalit_**
 
