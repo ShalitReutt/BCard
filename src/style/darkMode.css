@@ -1,0 +1,96 @@
+#dark {
+  background-color: #3d3d3d !important;
+  color: #f5f5f5 !important;
+
+  & .navbar {
+    background-color: #272727 !important;
+  }
+
+  & footer {
+    background-color: #121212 !important;
+
+    & .border-top {
+      color: #b8b8b8 !important;
+      border-top: #121212 !important;
+    }
+  }
+
+  & .link,
+  .logo {
+    color: #f5f5f5 !important;
+  }
+
+  & .active {
+    color: gray !important;
+  }
+
+  & .sun {
+    display: none;
+  }
+
+  & a {
+    color: #f5f5f5 !important;
+  }
+
+  & .card {
+    background-color: #272727;
+  }
+
+  & .card-body,
+  .card-text,
+  .card-title {
+    color: white;
+  }
+
+  .btn {
+    background-color: #006900;
+    border-color: #111111;
+  }
+
+  .toast-dark {
+    background-color: black;
+  }
+
+  .user {
+    border-color: gray !important;
+  }
+
+  .table-users {
+    background-color: #212529 !important;
+    color: #fff !important;
+    border-color: #4d5154 !important;
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+  .table-users th,
+  .table-users td {
+    border: 1px solid #4d5154;
+  }
+
+  .table-users th {
+    color: #fff;
+    background-color: #343a40;
+    border-color: #454d55;
+  }
+
+  .table-users tbody tr:nth-of-type(odd) {
+    background-color: #2c3034 !important;
+  }
+
+  .table-users tbody tr:hover {
+    background-color: #323539 !important;
+  }
+
+  .table-users tbody tr.active {
+    background-color: #373b3e !important;
+  }
+
+  .navbar-toggler {
+    background-color: #006900;
+  }
+
+  .toggle-item {
+    color: black !important;
+  }
+}

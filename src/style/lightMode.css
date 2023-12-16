@@ -1,0 +1,42 @@
+#light {
+  background-color: #1987544d;
+
+  & footer {
+    background-color: white;
+  }
+
+  & .moon {
+    display: none;
+  }
+
+  & .icon-l {
+    color: gray;
+  }
+
+  .card-icon {
+    color: black !important;
+  }
+  .navbar-toggler {
+    background-color: #006900;
+  }
+}
+thead > * {
+  background-color: #198754;
+  color: #fff;
+}
+
+.link {
+  font-size: large !important;
+
+  &:hover {
+    scale: 1.1;
+    transition: 0.3s;
+    font-weight: 600 !important;
+    text-decoration: underline !important;
+    text-underline-offset: 1.8vmin !important;
+  }
+}
+
+.about-p {
+  font-size: 1.3rem;
+}

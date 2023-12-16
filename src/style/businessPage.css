@@ -1,0 +1,67 @@
+.map {
+  width: 60vmin;
+  height: 40vmin;
+  background-color: gray;
+}
+
+.img {
+  width: 50%;
+  max-height: 23rem;
+}
+
+.info {
+  width: 50%;
+  display: inline-flex;
+  padding-left: 3rem;
+
+  & > * {
+    width: max-content;
+  }
+}
+
+.par {
+  max-width: 40vmin;
+}
+
+h3 {
+  font-size: 3vmin;
+}
+
+@media only screen and (max-width: 768px) {
+  img {
+    width: 100% !important;
+    position: static !important;
+  }
+
+  .info {
+    position: static !important;
+    padding-left: 0 !important;
+    width: 100% !important;
+    & > * {
+      font-size: calc(4vmin);
+    }
+  }
+
+  .par {
+    max-width: 80vmin;
+  }
+
+  h1 {
+    font-size: x-large !important;
+  }
+
+  h3 {
+    font-size: 5vmin !important;
+  }
+
+  .business {
+    text-align: center;
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .info {
+    right: 0 !important;
+  }
+}
